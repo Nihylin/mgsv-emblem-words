@@ -1,0 +1,32 @@
+.categoryList .category {
+    margin: 20px;
+    overflow: hidden;
+    background: rgba(195, 195, 195, 0.2);
+    border-radius: 10px;
+    border: 2px solid rgba(255, 255, 255, 0.1);
+    box-shadow: 0 0 80px rgba(0, 0, 0, 0.2);
+    color: #333;
+    transition: all 0.35s;
+}
+
+.categoryList .tab-content div {
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    padding: 0 0 5px 0;
+}
+
+.categoryList .description {
+    font-weight: bold;
+    padding: 10px;
+    margin: 0 5px;
+}
+
+.categoryList .words {
+    list-style: none;
+    margin: 0 5px;
+}
+
+.categoryList .word::before {
+    content: "· ";
+}

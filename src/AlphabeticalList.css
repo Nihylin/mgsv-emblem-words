@@ -1,0 +1,19 @@
+.alphabeticalList .word {
+    margin: 20px;
+    overflow: hidden;
+    background: rgba(195, 195, 195, 0.2);
+    border-radius: 10px;
+    border: 2px solid rgba(255, 255, 255, 0.1);
+    box-shadow: 0 0 80px rgba(0, 0, 0, 0.2);
+    color: #333;
+    transition: all 0.35s;
+}
+
+.alphabeticalList .search {
+    max-width: 610px;
+    width: 85%;
+    margin: 20px;
+    padding: 1em;
+    border-radius: 10px;
+    border: 2px solid rgba(255, 255, 255, 0.1);
+}

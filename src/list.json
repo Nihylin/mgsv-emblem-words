@@ -1,0 +1,1115 @@
+{
+    "words": [
+      {
+        "word": "BATTLE",
+        "category": "default",
+        "description": "By default"
+      },
+      {
+        "word": "BLUE",
+        "category": "default",
+        "description": "By default"
+      },
+      {
+        "word": "BOY",
+        "category": "default",
+        "description": "By default"
+      },
+      {
+        "word": "BRONZE",
+        "category": "default",
+        "description": "By default"
+      },
+      {
+        "word": "BROWN",
+        "category": "default",
+        "description": "By default"
+      },
+      {
+        "word": "CAMP",
+        "category": "default",
+        "description": "By default"
+      },
+      {
+        "word": "DIAMOND",
+        "category": "default",
+        "description": "By default"
+      },
+      {
+        "word": "DOGS",
+        "category": "default",
+        "description": "By default"
+      },
+      {
+        "word": "EASTERN",
+        "category": "default",
+        "description": "By default"
+      },
+      {
+        "word": "GIRL",
+        "category": "default",
+        "description": "By default"
+      },
+      {
+        "word": "GOLD",
+        "category": "default",
+        "description": "By default"
+      },
+      {
+        "word": "GREEN",
+        "category": "default",
+        "description": "By default"
+      },
+      {
+        "word": "GROUND",
+        "category": "default",
+        "description": "By default"
+      },
+      {
+        "word": "HORSE",
+        "category": "default",
+        "description": "By default"
+      },
+      {
+        "word": "MASTER",
+        "category": "default",
+        "description": "By default"
+      },
+      {
+        "word": "MILLER",
+        "category": "default",
+        "description": "By default"
+      },
+      {
+        "word": "NAKED",
+        "category": "default",
+        "description": "By default"
+      },
+      {
+        "word": "NEW",
+        "category": "default",
+        "description": "By default"
+      },
+      {
+        "word": "NORTHERN",
+        "category": "default",
+        "description": "By default"
+      },
+      {
+        "word": "OCELOT",
+        "category": "default",
+        "description": "By default"
+      },
+      {
+        "word": "OMEGA",
+        "category": "default",
+        "description": "By default"
+      },
+      {
+        "word": "ORANGE",
+        "category": "default",
+        "description": "By default"
+      },
+      {
+        "word": "PINK",
+        "category": "default",
+        "description": "By default"
+      },
+      {
+        "word": "PLATINUM",
+        "category": "default",
+        "description": "By default"
+      },
+      {
+        "word": "PUNISHED",
+        "category": "default",
+        "description": "By default"
+      },
+      {
+        "word": "PURPLE",
+        "category": "default",
+        "description": "By default"
+      },
+      {
+        "word": "REVOLVER",
+        "category": "default",
+        "description": "By default"
+      },
+      {
+        "word": "SHALASHASKA",
+        "category": "default",
+        "description": "By default"
+      },
+      {
+        "word": "SILVER",
+        "category": "default",
+        "description": "By default"
+      },
+      {
+        "word": "SNAKE",
+        "category": "default",
+        "description": "By default"
+      },
+      {
+        "word": "SOUTHERN",
+        "category": "default",
+        "description": "By default"
+      },
+      {
+        "word": "SPECIAL",
+        "category": "default",
+        "description": "By default"
+      },
+      {
+        "word": "VENOM",
+        "category": "default",
+        "description": "By default"
+      },
+      {
+        "word": "WESTERN",
+        "category": "default",
+        "description": "By default"
+      },
+      {
+        "word": "WOMAN",
+        "category": "default",
+        "description": "By default"
+      },
+      {
+        "word": "YELLOW",
+        "category": "default",
+        "description": "By default"
+      },
+      {
+        "word": "ZERO",
+        "category": "default",
+        "description": "By default"
+      },
+      {
+        "word": "ZEROES",
+        "category": "default",
+        "description": "By default"
+      },
+      {
+        "word": "COBRA",
+        "category": "special",
+        "description": "Have over 150,000 Heroism points"
+      },
+      {
+        "word": "END",
+        "category": "special",
+        "description": "Have over 150,000 Heroism points"
+      },
+      {
+        "word": "FEAR",
+        "category": "special",
+        "description": "Have over 150,000 Heroism points"
+      },
+      {
+        "word": "FURY",
+        "category": "special",
+        "description": "Have over 150,000 Heroism points"
+      },
+      {
+        "word": "JOY",
+        "category": "special",
+        "description": "Have over 150,000 Heroism points"
+      },
+      {
+        "word": "PAIN",
+        "category": "special",
+        "description": "Have over 150,000 Heroism points"
+      },
+      {
+        "word": "SORROW",
+        "category": "special",
+        "description": "Have over 150,000 Heroism points"
+      },
+      {
+        "word": "THE",
+        "category": "special",
+        "description": "Have over 150,000 Heroism points"
+      },
+      {
+        "word": "UNIT",
+        "category": "special",
+        "description": "Have over 150,000 Heroism points"
+      },
+      {
+        "word": "DOG",
+        "category": "special",
+        "description": "Extracted DD"
+      },
+      {
+        "word": "CYBORG",
+        "category": "special",
+        "description": "Complete all missions except the repeats"
+      },
+      {
+        "word": "GRAY",
+        "category": "special",
+        "description": "Complete all missions except the repeats"
+      },
+      {
+        "word": "NINJA",
+        "category": "special",
+        "description": "Complete all missions except the repeats"
+      },
+      {
+        "word": "RAIDEN",
+        "category": "special",
+        "description": "Complete all missions except the repeats"
+      },
+      {
+        "word": "ROSE",
+        "category": "special",
+        "description": "Complete all missions with an S rank except repeats"
+      },
+      {
+        "word": "LIQUID",
+        "category": "special",
+        "description": "Watch the cutscene where Eli escapes"
+      },
+      {
+        "word": "PRAYING",
+        "category": "special",
+        "description": "Watch the cutscene where Eli escapes"
+      },
+      {
+        "word": "PSYCHO",
+        "category": "special",
+        "description": "Watch the cutscene where Eli escapes"
+      },
+      {
+        "word": "SCREAMING",
+        "category": "special",
+        "description": "Watch the cutscene where Eli escapes"
+      },
+      {
+        "word": "SOLID",
+        "category": "special",
+        "description": "Watch the cutscene where Eli escapes"
+      },
+      {
+        "word": "SOLIDUS",
+        "category": "special",
+        "description": "Watch the cutscene where Eli escapes"
+      },
+      {
+        "word": "OTAKU",
+        "category": "special",
+        "description": "Watch the cutscene where Emmerich is exiled"
+      },
+      {
+        "word": "PEACE",
+        "category": "special",
+        "description": "Watch the cutscene where Emmerich is exiled"
+      },
+      {
+        "word": "WALKER",
+        "category": "special",
+        "description": "Watch the cutscene where Emmerich is exiled"
+      },
+      {
+        "word": "ZEKE",
+        "category": "special",
+        "description": "Watch the cutscene where Emmerich is exiled"
+      },
+      {
+        "word": "QUIET",
+        "category": "mission",
+        "description": "Complete Mission 11"
+      },
+      {
+        "word": "SNIPER",
+        "category": "mission",
+        "description": "Complete Mission 11"
+      },
+      {
+        "word": "ARMAMENTS",
+        "category": "mission",
+        "description": "Complete Mission 12"
+      },
+      {
+        "word": "LAUGHING",
+        "category": "mission",
+        "description": "Complete Mission 16"
+      },
+      {
+        "word": "COYOTE",
+        "category": "mission",
+        "description": "Complete Mission 19"
+      },
+      {
+        "word": "ROGUE",
+        "category": "mission",
+        "description": "Complete Mission 19"
+      },
+      {
+        "word": "CONTRACT",
+        "category": "mission",
+        "description": "Complete Mission 21"
+      },
+      {
+        "word": "FORCES",
+        "category": "mission",
+        "description": "Complete Mission 21"
+      },
+      {
+        "word": "MAMBA",
+        "category": "mission",
+        "description": "Complete Mission 23"
+      },
+      {
+        "word": "RISK",
+        "category": "mission",
+        "description": "Complete Mission 28"
+      },
+      {
+        "word": "SECURITY",
+        "category": "mission",
+        "description": "Complete Mission 28"
+      },
+      {
+        "word": ".INC",
+        "category": "mission",
+        "description": "Complete Mission 28"
+      },
+      {
+        "word": "CODE",
+        "category": "mission",
+        "description": "Complete Mission 29"
+      },
+      {
+        "word": "SKULLS",
+        "category": "mission",
+        "description": "Complete Mission 29"
+      },
+      {
+        "word": "TALKER",
+        "category": "mission",
+        "description": "Complete Mission 29"
+      },
+      {
+        "word": "CIPHER",
+        "category": "mission",
+        "description": "Complete Mission 30"
+      },
+      {
+        "word": "FACE",
+        "category": "mission",
+        "description": "Complete Mission 30"
+      },
+      {
+        "word": "SKULL",
+        "category": "mission",
+        "description": "Complete Mission 30"
+      },
+      {
+        "word": "XOF",
+        "category": "mission",
+        "description": "Complete Mission 30"
+      },
+      {
+        "word": "NUCLEAR",
+        "category": "mission",
+        "description": "Complete Mission 31"
+      },
+      {
+        "word": "RAGING",
+        "category": "mission",
+        "description": "Complete Mission 31"
+      },
+      {
+        "word": "SWORD",
+        "category": "mission",
+        "description": "Complete Mission 31"
+      },
+      {
+        "word": "BEAST",
+        "category": "mission",
+        "description": "Complete Mission 45"
+      },
+      {
+        "word": "BEAUTY",
+        "category": "mission",
+        "description": "Complete Mission 45"
+      },
+      {
+        "word": "CRYING",
+        "category": "mission",
+        "description": "Complete Mission 45"
+      },
+      {
+        "word": "WEREWOLF",
+        "category": "mission",
+        "description": "Complete Mission 45"
+      },
+      {
+        "word": "BIG",
+        "category": "mission",
+        "description": "Complete Mission 46"
+      },
+      {
+        "word": "BOSS",
+        "category": "mission",
+        "description": "Complete Mission 46"
+      },
+      {
+        "word": "HAVEN",
+        "category": "mission",
+        "description": "Complete Mission 46"
+      },
+      {
+        "word": "HEAVEN",
+        "category": "mission",
+        "description": "Complete Mission 46"
+      },
+      {
+        "word": "LAND",
+        "category": "mission",
+        "description": "Complete Mission 46"
+      },
+      {
+        "word": "OUTER",
+        "category": "mission",
+        "description": "Complete Mission 46"
+      },
+      {
+        "word": "ZANZIBAR",
+        "category": "mission",
+        "description": "Complete Mission 46"
+      },
+      {
+        "word": "INTELLIGENCE",
+        "category": "key dispatch",
+        "description": "Complete Key Dispatch Mission 03"
+      },
+      {
+        "word": "RIOT",
+        "category": "key dispatch",
+        "description": "Complete Key Dispatch Mission 03"
+      },
+      {
+        "word": "TACTICAL",
+        "category": "key dispatch",
+        "description": "Complete Key Dispatch Mission 03"
+      },
+      {
+        "word": "TECHNICAL",
+        "category": "key dispatch",
+        "description": "Complete Key Dispatch Mission 03"
+      },
+      {
+        "word": "AIRBONE",
+        "category": "key dispatch",
+        "description": "Complete Key Dispatch Mission 05"
+      },
+      {
+        "word": "EMERGENCY",
+        "category": "key dispatch",
+        "description": "Complete Key Dispatch Mission 05"
+      },
+      {
+        "word": "FLIGHT",
+        "category": "key dispatch",
+        "description": "Complete Key Dispatch Mission 05"
+      },
+      {
+        "word": "SERVICE",
+        "category": "key dispatch",
+        "description": "Complete Key Dispatch Mission 05"
+      },
+      {
+        "word": "CHEMICAL",
+        "category": "key dispatch",
+        "description": "Complete Key Dispatch Mission 07"
+      },
+      {
+        "word": "ENGINEER",
+        "category": "key dispatch",
+        "description": "Complete Key Dispatch Mission 07"
+      },
+      {
+        "word": "MEDICAL",
+        "category": "key dispatch",
+        "description": "Complete Key Dispatch Mission 07"
+      },
+      {
+        "word": "RESCUE",
+        "category": "key dispatch",
+        "description": "Complete Key Dispatch Mission 07"
+      },
+      {
+        "word": "EVASION",
+        "category": "key dispatch",
+        "description": "Complete Key Dispatch Mission 08"
+      },
+      {
+        "word": "SIGNAL",
+        "category": "key dispatch",
+        "description": "Complete Key Dispatch Mission 08"
+      },
+      {
+        "word": "SURVIVAL",
+        "category": "key dispatch",
+        "description": "Complete Key Dispatch Mission 08"
+      },
+      {
+        "word": "WARFARE",
+        "category": "key dispatch",
+        "description": "Complete Key Dispatch Mission 08"
+      },
+      {
+        "word": "CAMOUFLAGE",
+        "category": "key dispatch",
+        "description": "Complete Key Dispatch Mission 09"
+      },
+      {
+        "word": "CONCEALMENT",
+        "category": "key dispatch",
+        "description": "Complete Key Dispatch Mission 09"
+      },
+      {
+        "word": "ESCAPE",
+        "category": "key dispatch",
+        "description": "Complete Key Dispatch Mission 09"
+      },
+      {
+        "word": "RESISTANCE",
+        "category": "key dispatch",
+        "description": "Complete Key Dispatch Mission 09"
+      },
+      {
+        "word": "ANTI",
+        "category": "key dispatch",
+        "description": "Complete Key Dispatch Mission 11"
+      },
+      {
+        "word": "COMMAND",
+        "category": "key dispatch",
+        "description": "Complete Key Dispatch Mission 11"
+      },
+      {
+        "word": "OPERATIONS",
+        "category": "key dispatch",
+        "description": "Complete Key Dispatch Mission 11"
+      },
+      {
+        "word": "TASK",
+        "category": "key dispatch",
+        "description": "Complete Key Dispatch Mission 11"
+      },
+      {
+        "word": "CORPS",
+        "category": "key dispatch",
+        "description": "Complete Key Dispatch Mission 14"
+      },
+      {
+        "word": "DETACHMENT",
+        "category": "key dispatch",
+        "description": "Complete Key Dispatch Mission 14"
+      },
+      {
+        "word": "ELEMENTS",
+        "category": "key dispatch",
+        "description": "Complete Key Dispatch Mission 14"
+      },
+      {
+        "word": "GROUP",
+        "category": "key dispatch",
+        "description": "Complete Key Dispatch Mission 14"
+      },
+      {
+        "word": "BATTALION",
+        "category": "key dispatch",
+        "description": "Complete Key Dispatch Mission 16"
+      },
+      {
+        "word": "BRIGADE",
+        "category": "key dispatch",
+        "description": "Complete Key Dispatch Mission 16"
+      },
+      {
+        "word": "DIVISION",
+        "category": "key dispatch",
+        "description": "Complete Key Dispatch Mission 16"
+      },
+      {
+        "word": "REGIMENT",
+        "category": "key dispatch",
+        "description": "Complete Key Dispatch Mission 16"
+      },
+      {
+        "word": "COMPANY",
+        "category": "key dispatch",
+        "description": "Complete Key Dispatch Mission 17"
+      },
+      {
+        "word": "INFANTRY",
+        "category": "key dispatch",
+        "description": "Complete Key Dispatch Mission 17"
+      },
+      {
+        "word": "PLATOON",
+        "category": "key dispatch",
+        "description": "Complete Key Dispatch Mission 17"
+      },
+      {
+        "word": "SQUAD",
+        "category": "key dispatch",
+        "description": "Complete Key Dispatch Mission 17"
+      },
+      {
+        "word": "ARMOR",
+        "category": "key dispatch",
+        "description": "Complete Key Dispatch Mission 18"
+      },
+      {
+        "word": "ASSAULT",
+        "category": "key dispatch",
+        "description": "Complete Key Dispatch Mission 18"
+      },
+      {
+        "word": "AVIATION",
+        "category": "key dispatch",
+        "description": "Complete Key Dispatch Mission 18"
+      },
+      {
+        "word": "RADIO",
+        "category": "key dispatch",
+        "description": "Complete Key Dispatch Mission 18"
+      },
+      {
+        "word": "POLICE",
+        "category": "key dispatch",
+        "description": "Complete Key Dispatch Mission 19"
+      },
+      {
+        "word": "RANGER",
+        "category": "key dispatch",
+        "description": "Complete Key Dispatch Mission 19"
+      },
+      {
+        "word": "RECON",
+        "category": "key dispatch",
+        "description": "Complete Key Dispatch Mission 19"
+      },
+      {
+        "word": "SCOUT",
+        "category": "key dispatch",
+        "description": "Complete Key Dispatch Mission 19"
+      },
+      {
+        "word": "GEAR",
+        "category": "side op",
+        "description": "Complete Side-op 82"
+      },
+      {
+        "word": "METAL",
+        "category": "side op",
+        "description": "Complete Side-op 82"
+      },
+      {
+        "word": "REX",
+        "category": "side op",
+        "description": "Complete Side-op 82"
+      },
+      {
+        "word": "CHRYSALIS",
+        "category": "side op",
+        "description": "Complete Side-op 143"
+      },
+      {
+        "word": "COCOON",
+        "category": "side op",
+        "description": "Complete Side-op 143"
+      },
+      {
+        "word": "LOVE",
+        "category": "side op",
+        "description": "Complete Side-op 143"
+      },
+      {
+        "word": "PUPA",
+        "category": "side op",
+        "description": "Complete Side-op 143"
+      },
+      {
+        "word": "STRANGE",
+        "category": "side op",
+        "description": "Complete Side-op 143"
+      },
+      {
+        "word": "BOLT",
+        "category": "side op",
+        "description": "Complete Side-op 144"
+      },
+      {
+        "word": "GROZNYJGRAD",
+        "category": "side op",
+        "description": "Complete Side-op 144"
+      },
+      {
+        "word": "SHAGOHOD",
+        "category": "side op",
+        "description": "Complete Side-op 144"
+      },
+      {
+        "word": "THUNDER",
+        "category": "side op",
+        "description": "Complete Side-op 144"
+      },
+      {
+        "word": "ADAM",
+        "category": "africa",
+        "description": "Capture Africa guard post 04"
+      },
+      {
+        "word": "ALIVE",
+        "category": "africa",
+        "description": "Capture Africa guard post 14"
+      },
+      {
+        "word": "AREA",
+        "category": "africa",
+        "description": "Capture Africa guard post 15"
+      },
+      {
+        "word": "ARMY",
+        "category": "africa",
+        "description": "Capture Africa guard post 12"
+      },
+      {
+        "word": "CLAWING",
+        "category": "africa",
+        "description": "Capture Africa guard post 13"
+      },
+      {
+        "word": "COLD",
+        "category": "africa",
+        "description": "Capture Africa guard post 18"
+      },
+      {
+        "word": "COMMANDOS",
+        "category": "africa",
+        "description": "Capture Africa guard post 02"
+      },
+      {
+        "word": "DREBIN",
+        "category": "africa",
+        "description": "Capture Bampeve Plantation"
+      },
+      {
+        "word": "DWARF",
+        "category": "africa",
+        "description": "Capture Kungenga Mine"
+      },
+      {
+        "word": "EATER",
+        "category": "africa",
+        "description": "Capture Munoko ya Nioka Station"
+      },
+      {
+        "word": "EVA",
+        "category": "africa",
+        "description": "Capture Africa guard post 05"
+      },
+      {
+        "word": "GECKO",
+        "category": "africa",
+        "description": "Capture Africa guard post 07"
+      },
+      {
+        "word": "GUNS OF",
+        "category": "africa",
+        "description": "Capture Kiziba Camp"
+      },
+      {
+        "word": "HELL",
+        "category": "africa",
+        "description": "Capture Africa guard post 21"
+      },
+      {
+        "word": "HOT",
+        "category": "africa",
+        "description": "Capture Africa guard post 16"
+      },
+      {
+        "word": "LITTLE",
+        "category": "africa",
+        "description": "Capture Africa guard post 23"
+      },
+      {
+        "word": "LOST",
+        "category": "africa",
+        "description": "Capture Africa guard post 11"
+      },
+      {
+        "word": "MAMA",
+        "category": "africa",
+        "description": "Capture Africa guard post 06"
+      },
+      {
+        "word": "MILITAIRES",
+        "category": "africa",
+        "description": "Capture Africa guard post 19"
+      },
+      {
+        "word": "OLD",
+        "category": "africa",
+        "description": "Capture Ditadi Abandoned Village"
+      },
+      {
+        "word": "PARADISE",
+        "category": "africa",
+        "description": "Capture Masa Village (Bwala ya Masa)"
+      },
+      {
+        "word": "PATRIOTS",
+        "category": "africa",
+        "description": "Capture Lufwa Valley"
+      },
+      {
+        "word": "PATROL",
+        "category": "africa",
+        "description": "Capture Africa guard post 09"
+      },
+      {
+        "word": "PHANTOM",
+        "category": "africa",
+        "description": "Capture Africa guard post 17"
+      },
+      {
+        "word": "RAT",
+        "category": "africa",
+        "description": "Capture Africa guard post 08"
+      },
+      {
+        "word": "SENTINEL",
+        "category": "africa",
+        "description": "Capture Africa guard post 20"
+      },
+      {
+        "word": "SHELL",
+        "category": "africa",
+        "description": "Capture Africa guard post 03"
+      },
+      {
+        "word": "SMALL",
+        "category": "africa",
+        "description": "Capture Africa guard post 22"
+      },
+      {
+        "word": "SNATCHER",
+        "category": "africa",
+        "description": "Capture Mfinda Oilfield"
+      },
+      {
+        "word": "TEAM",
+        "category": "africa",
+        "description": "Capture Africa guard post 10"
+      },
+      {
+        "word": "TENGU",
+        "category": "africa",
+        "description": "Capture Africa guard post 01"
+      },
+      {
+        "word": "893",
+        "category": "africa",
+        "description": "Capture Nova Braga Airport"
+      },
+      {
+        "word": "ARSENAL",
+        "category": "afghanistan",
+        "description": "Capture Afghanistan Central Base Camp"
+      },
+      {
+        "word": "BLACK",
+        "category": "afghanistan",
+        "description": "Capture Afghanistan guard post 11"
+      },
+      {
+        "word": "BLASTER",
+        "category": "afghanistan",
+        "description": "Capture Afghanistan guard post 09"
+      },
+      {
+        "word": "BOX",
+        "category": "afghanistan",
+        "description": "Capture Afghanistan guard post 17"
+      },
+      {
+        "word": "CELL",
+        "category": "afghanistan",
+        "description": "Capture Afghanistan guard post 15"
+      },
+      {
+        "word": "COLOR",
+        "category": "afghanistan",
+        "description": "Capture Afghanistan guard post 12"
+      },
+      {
+        "word": "COWARD",
+        "category": "afghanistan",
+        "description": "Capture Afghanistan guard post 07"
+      },
+      {
+        "word": "DEAD",
+        "category": "afghanistan",
+        "description": "Capture Afghanistan guard post 25"
+      },
+      {
+        "word": "DECOY",
+        "category": "afghanistan",
+        "description": "Capture Qarya Sakhra Ee"
+      },
+      {
+        "word": "DIE",
+        "category": "afghanistan",
+        "description": "Capture Afghanistan guard post 21"
+      },
+      {
+        "word": "DUCK",
+        "category": "afghanistan",
+        "description": "Capture Afghanistan guard post 08"
+      },
+      {
+        "word": "FAT",
+        "category": "afghanistan",
+        "description": "Capture Afghanistan guard post 23"
+      },
+      {
+        "word": "FIRE",
+        "category": "afghanistan",
+        "description": "Capture Afghanistan guard post 05"
+      },
+      {
+        "word": "FORTUNE",
+        "category": "afghanistan",
+        "description": "Capture Mountain Relay Base"
+      },
+      {
+        "word": "GUNNER",
+        "category": "afghanistan",
+        "description": "Capture Afghanistan guard post 02"
+      },
+      {
+        "word": "ISLAND",
+        "category": "afghanistan",
+        "description": "Capture Afghanistan guard post 22"
+      },
+      {
+        "word": "KID",
+        "category": "afghanistan",
+        "description": "Capture Afghanistan guard post 04"
+      },
+      {
+        "word": "KING",
+        "category": "afghanistan",
+        "description": "Capture Lamar Khaate Palace"
+      },
+      {
+        "word": "LIBERTY",
+        "category": "afghanistan",
+        "description": "Capture Afghanistan guard post 24"
+      },
+      {
+        "word": "MACHINEGUN",
+        "category": "afghanistan",
+        "description": "Capture Afghanistan guard post 03"
+      },
+      {
+        "word": "MAN",
+        "category": "afghanistan",
+        "description": "Capture Da Shago Kallai"
+      },
+      {
+        "word": "MOSES",
+        "category": "afghanistan",
+        "description": "Capture Ghwandai Town (Da Ghwandai Khar)"
+      },
+      {
+        "word": "NIGHT",
+        "category": "afghanistan",
+        "description": "Capture Afghanistan guard post 19"
+      },
+      {
+        "word": "PHILANTHROPY",
+        "category": "afghanistan",
+        "description": "Capture Yakho Oboo Supply Outpost"
+      },
+      {
+        "word": "PREDATOR",
+        "category": "afghanistan",
+        "description": "Capture Afghanistan guard post 18"
+      },
+      {
+        "word": "QUEEN",
+        "category": "afghanistan",
+        "description": "Capture Da Smasei Laman"
+      },
+      {
+        "word": "RAY",
+        "category": "afghanistan",
+        "description": "Capture Serak Power Plant"
+      },
+      {
+        "word": "RED",
+        "category": "afghanistan",
+        "description": "Capture Afghanistan guard post 14"
+      },
+      {
+        "word": "RUNNING",
+        "category": "afghanistan",
+        "description": "Capture Afghanistan guard post 13"
+      },
+      {
+        "word": "SHADOW",
+        "category": "afghanistan",
+        "description": "Capture OKB Zero"
+      },
+      {
+        "word": "SHOOT",
+        "category": "afghanistan",
+        "description": "Capture Afghanistan guard post 01"
+      },
+      {
+        "word": "SIGHT",
+        "category": "afghanistan",
+        "description": "Capture Afghanistan guard post 20"
+      },
+      {
+        "word": "SONS OF",
+        "category": "afghanistan",
+        "description": "Capture Wialo Village (Da Wialo Kallai)"
+      },
+      {
+        "word": "TROOPER",
+        "category": "afghanistan",
+        "description": "Capture Afghanistan guard post 06"
+      },
+      {
+        "word": "ULTRA",
+        "category": "afghanistan",
+        "description": "Capture Afghanistan guard post 16"
+      },
+      {
+        "word": "VAMP",
+        "category": "afghanistan",
+        "description": "Capture Eastern Communications Post"
+      },
+      {
+        "word": "VULCAN",
+        "category": "afghanistan",
+        "description": "Capture Wakh Sind Barracks"
+      },
+      {
+        "word": "WHITE",
+        "category": "afghanistan",
+        "description": "Capture Afghanistan guard post 10"
+      }
+    ]
+  }
+  
