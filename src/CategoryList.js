@@ -32,10 +32,16 @@ const CategoryList = () => {
       <nav className="link">
         <Link to="/">Switch back to alphabetical list</Link>
       </nav>
+
       <ul className="liste">
         {categoriesInOrder.map((category) => {
           const descriptions = wordsByCategoryAndDescription[category];
-          const sortedDescriptions = Object.keys(descriptions).sort();
+          const sortedDescriptions = Object.keys(descriptions).sort((a, b) =>
+            a.localeCompare(b, undefined, {
+              numeric: true,
+              sensitivity: "base",
+            })
+          );
 
           return (
             <li key={category} className="category">
