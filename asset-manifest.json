@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/mgsv-emblem-words/static/css/main.2d731390.css",
-    "main.js": "/mgsv-emblem-words/static/js/main.14f01fc8.js",
+    "main.js": "/mgsv-emblem-words/static/js/main.956c9030.js",
     "index.html": "/mgsv-emblem-words/index.html",
     "main.2d731390.css.map": "/mgsv-emblem-words/static/css/main.2d731390.css.map",
-    "main.14f01fc8.js.map": "/mgsv-emblem-words/static/js/main.14f01fc8.js.map"
+    "main.956c9030.js.map": "/mgsv-emblem-words/static/js/main.956c9030.js.map"
   },
   "entrypoints": [
     "static/css/main.2d731390.css",
-    "static/js/main.14f01fc8.js"
+    "static/js/main.956c9030.js"
   ]
 }
